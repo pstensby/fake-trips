@@ -1,6 +1,12 @@
 {
-  "trips": {
-    "id": 1,
-    "title": "This is a fake trip"
-  }
+  "trips": [
+    {
+      "id": 1,
+      "title": "This is a fake trip 1"
+    },
+    {
+      "id": 2,
+      "title": "This is a fake trip 2"
+    }
+  ]
 }
