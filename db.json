@@ -1,8 +1,4 @@
 {
-  "trips": [
-    {
-      "id": 1,
-      "title": "This is a fake trip"
-    }
-  ]
+  "id": 1,
+  "title": "This is a fake trip"
 }
